@@ -70,6 +70,7 @@ console.log(weekFn(1,5));
 console.log(weekFn('fkjgdfjbv'));
 
 
+
 // 6
 function ageClassification(n) {
     return (0 < n && n <= 24) ? 'детский возраст' : 
